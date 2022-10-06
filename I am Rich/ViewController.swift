@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Hello World!")
-        print("I am Rich")
+        print("I am Eldor")
     }
 
 
