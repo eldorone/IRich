@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Hello World")
+        print("This is swift app practice")
         print("I am Rich!")
         print("This is the application for rich people.")
     }
