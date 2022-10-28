@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("I am Rich!")
-        print("This is the Application for rich people.")
+        print("This is the iOS Mobile Application for rich people.")
         print("Just pull the repo and have fun with that..")
     }
 
